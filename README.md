@@ -75,3 +75,16 @@ Sample Output:
         "gender": "female"
     }
 ]
+
+
+
+3. To view database table and its rows please hit the URL 
+
+	localhost:8080/console
+
+	In the login window seen ensure the user name password and database name as as below
+	UserName: sa
+	Password:        --> empty
+	JDBC URL: jdbc:h2:mem:empdb
+
+	After logging in, please click on EMPLOYEE table to run the queries
